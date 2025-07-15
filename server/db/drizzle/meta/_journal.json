@@ -8,6 +8,27 @@
       "when": 1751881946084,
       "tag": "0000_curly_karma",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1751922239455,
+      "tag": "0001_quick_psynapse",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1751975617585,
+      "tag": "0002_adorable_starhawk",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1752055473387,
+      "tag": "0003_dark_marrow",
+      "breakpoints": true
     }
   ]
 }
